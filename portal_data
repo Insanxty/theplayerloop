@@ -2,14 +2,14 @@
 {
 "Name": "Unbox a Baddie!",
 "Description": "Your Baddies keep earning for you even when you’re offline!",
-"ImageId": "139172131001790",
+"ImageId": "123847366029510",
 "PlaceId": 82600827850569,
 "Priority": 10
 },
 {
 "Name": "Invisible Troll Tower!",
 "Description": "Do you have what it takes to reach the top without getting trolled?",
-"ImageId": "72468417269298",
+"ImageId": "109891679835380",
 "PlaceId": 0,
 "Priority": 5
 }
